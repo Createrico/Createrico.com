@@ -1,17 +1,11 @@
-<h1 style="color: blue">Hello!</h1>
-<h2 style="color: green">我是Createrico<h2><h2> 欢迎你来到这里</h2>
-<h3>我自己用C++编写了一个传输文件的程序</h3>
-<h3>ToFile程序13.0</h3>
-<h3 style="color:003300">Github网页下载:</h3>
-<ul>
-  <li> <a style="color:3366FF" href="https://github.com/Createrico/Createrico.github.io/tree/main/ToFile">客户端下载</a> </li>
-  <li> <a style="color:3366FF" href="https://github.com/Createrico/Createrico.github.io/tree/main/ToFile-Server">服务端下载</a> </li>
-</ul>
-<h3 style="color:003300">压缩包下载:</h3>
-<ul>
-  <li> <a style="color:3366FF" href="https://github.com/Createrico/Createrico.github.io/raw/main/ToFile(%E5%8E%8B%E7%BC%A9%E5%8C%85).zip">客户端下载</a> </li>
-  <li> <a style="color:3366FF" href="https://github.com/Createrico/Createrico.github.io/raw/main/ToFile-Server(%E5%8E%8B%E7%BC%A9%E5%8C%85).zip">服务端下载</a> </li>
-</ul>
-<h3 style="color: #DAA520">使用介绍:
-<a style="color:#DAA520" href="https://createrico.github.io/course">introduction</a>
-<h3 style="color:black">----------</h3>
+<h1 style="color: blue">Welcome To Use ToFile 13.0!</h1>
+<h2 style="color: green">文件包含：</h2>
+<h2>&emsp;&emsp;&emsp;服务端包含名为“Server”的程序和一个用于存储上传文件的File文件夹</h2>
+<h2>&emsp;&emsp;&emsp;ToFile端包含名为“ToFile”的程序，一个用于存储下载文件的“Download”文件夹和一个程序信息的“Data”文件夹</h2>
+<h2 style="color: green">使用：</h2>
+<h2>&emsp;&emsp;&emsp;1.服务端启动“Server”程序</h2>
+<h2>&emsp;&emsp;&emsp;2.ToFile端将“Data\\IP”的文件内容更改为服务端的IP地址</h2>
+<h2>&emsp;&emsp;&emsp;3.ToFile端启动“ToFile”程序</h2>
+<h2>&emsp;&emsp;&emsp;4.输入模式：1为上传，2为下载，3为删除</h2>
+<h2>&emsp;&emsp;&emsp;5.上传模式可以传输文件或文件夹内的所有文件，只需要将文件或文件夹拖入程序内（显示文件地址即为成功）</h2>
+<h2 style="color: #DAA520">Server：绿标代表连接或成功执行；红标代表错误或断开连接；白标或青蓝标是普通通信内容</h2>
